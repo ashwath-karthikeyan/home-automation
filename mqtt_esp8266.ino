@@ -13,9 +13,9 @@
 
 // Update these with values suitable for your network.
 
-const char* ssid = "ZTE_2.4G_5tW5nn";
-const char* password = "hyDGmttG";
-const char* mqtt_server = "192.168.1.3";
+const char* ssid = "";
+const char* password = "";
+const char* mqtt_server = "192.168.x.x";
 
 WiFiClient espClient;
 PubSubClient client(espClient);
