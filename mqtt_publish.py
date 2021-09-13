@@ -1,7 +1,7 @@
 import paho.mqtt.client as mqtt
 from time import sleep
 
-broker = "192.168.1.3"
+broker = "192.168.x.x"
 port = 1883
 
 def on_connect(client, userdata, flags, errors):
