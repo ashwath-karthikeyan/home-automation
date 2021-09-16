@@ -3,7 +3,7 @@
 Upload the mqtt_esp8266.ino file into your NodeMCU.
 Enter your wifi name and password in their respective places and assign your raspberry pi's ip address to the mqtt_server variable.
 
-Next install mosquitto server and client on your pi, and install paho mqtt library for python.
+Next, install mosquitto server and client on your pi, and install paho mqtt library for python.
 
 Run the mqtt_publish code to turn on or off the inbuilt LED on your NodeMCU, or edit the code to control any pin you want.
 
